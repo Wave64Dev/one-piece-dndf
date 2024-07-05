@@ -9,6 +9,7 @@
   },
   "url": "https://github.com/wave64dev/one-piece-dndf/",
   "manifest": "https://raw.githubusercontent.com/wave64dev/one-piece-dndf/3.3.x/system.json",
+  "download": "https://github.com/wave64dev/one-piece-dndf/archive/master.zip",
   "authors": [
     {
       "name": "Wave64",
@@ -20,7 +21,7 @@
     "dnd5e.mjs"
   ],
   "styles": [
-    "dnd5e.css"
+    "dnd5e.less"
   ],
   "packs": [
     {
